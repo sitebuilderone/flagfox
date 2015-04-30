@@ -1,5 +1,5 @@
 # flagfox
 Custom actions for Firefox flagfox
 
-Sample taken from:
+Samples and collections taken from:
 http://flagfox.net/forum/index.php
